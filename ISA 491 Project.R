@@ -1,4 +1,4 @@
-# IAN BLOMQUIST and MICHAEL MACEY
+# Author: MICHAEL MACEY
 
 # set working directory
 setwd("/Users/maceyma/Desktop/ISA 491/Project")
